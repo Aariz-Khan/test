@@ -1,6 +1,1 @@
-[submodule "bridget"]
-    path = themes/bridget
-    url = https://github.com/Sped0n/bridget.git
-[submodule "bridget"]
-    path = bridget
-    url = https://github.com/Sped0n/bridget.git
+
