@@ -1,3 +1,3 @@
-[submodule "bridget @ 3ff49b1"]
-	path = bridget @ 3ff49b1
+[submodule "bridget"]
+	path = bridget
 	url = https://github.com/Sped0n/bridget.git
